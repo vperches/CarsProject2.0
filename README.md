@@ -8,3 +8,23 @@ You are able to select the model of the car, the model year range, their odomete
 
 To launch this app, click the link below! 
 https://carsproject2-0.onrender.com
+
+To launch this app locally: 
+1) Clone the repository:
+Open a terminal or command prompt and run:
+git clone https://github.com/vperches/CarsProject2.0.git
+
+2) Navigate to the project directory by running: cd CarsProject2.0
+
+3) Set up a virtual environment (optional, but recommended) by running: python3 -m venv venv
+For Mac run: source venv/bin/activate
+For Windows run: venv\Scripts\activate  
+
+4) Install the necessary packages from requirements.txt by running: pip install -r requirements.txt
+
+5) Run the app locally by running: python app.py 
+
+
+You should now see the CarsProject2.0 web app running locally on your machine!
+
+
